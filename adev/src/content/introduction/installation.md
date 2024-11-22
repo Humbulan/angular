@@ -1,4 +1,4 @@
-<docs-decorative-header title="Installation" imgSrc="adev/src/assets/images/what_is_angular.svg"> <!-- markdownlint-disable-line -->
+npm start<docs-decorative-header title="Installation" imgSrc="adev/src/assets/images/what_is_angular.svg"> <!-- markdownlint-disable-line -->
 </docs-decorative-header>
 
 Get started with Angular quickly with online starters or locally with your terminal.
